@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Power Board\Power Board.PrjPcb
+[Project2]
+ProjectPath=Board Connector Template\Board Connector Template.PrjPcb
