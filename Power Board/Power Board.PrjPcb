@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EALXLSCE
 
 [Document2]
-DocumentPath=Power Board.DCDC3V3.SchDoc
+DocumentPath=Power Board.DCIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=METRSFEH
 
 [Document3]
 DocumentPath=Power Board.DCDC19V5.SchDoc
@@ -87,10 +87,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OMPGYPDA
 
 [Document4]
-DocumentPath=Power Board.DCIN.SchDoc
+DocumentPath=Power Board.DCDC3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IHLYKDWT
 
 [Document5]
 DocumentPath=Power Board.LDO.SchDoc
