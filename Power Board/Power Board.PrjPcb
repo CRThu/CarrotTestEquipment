@@ -73,40 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=METRSFEH
 
 [Document3]
-DocumentPath=Power Board.DCDC19V5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=201
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OMPGYPDA
-
-[Document4]
-DocumentPath=Power Board.DCDC3V3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=301
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IHLYKDWT
-
-[Document5]
 DocumentPath=Power Board.LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=401
@@ -122,6 +88,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGWUQAPS
+
+[Document4]
+DocumentPath=Power Board.DCDC1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=201
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OMPGYPDA
+
+[Document5]
+DocumentPath=Power Board.DCDC2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=301
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IHLYKDWT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Power Board\Design Rule Check - Power Board.html

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Projects\CarrotTestEquipment\Power Board\Power Board.PcbDoc
-Date     : 2023/1/17
-Time     : 17:03:34
+Date     : 2023/1/18
+Time     : 10:37:57
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -36,4 +36,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
