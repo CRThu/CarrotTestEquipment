@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Power Board\Power Board.PrjPcb
 [Project2]
 ProjectPath=Board Connector Template\Board Connector Template.PrjPcb
+[Project3]
+ProjectPath=Low Distortion Oscillator\Low Distortion Oscillator.PrjPcb
