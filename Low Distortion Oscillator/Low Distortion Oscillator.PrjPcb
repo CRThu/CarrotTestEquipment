@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=Low Distortion Oscillator.SchDoc
+DocumentPath=Low Distortion Oscillator.Osc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DNGHHNNW
+
+[Document3]
+DocumentPath=Low Distortion Oscillator.Con.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IWFHDAKR
 
 [Configuration1]
 Name=Sources
