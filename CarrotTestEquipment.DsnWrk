@@ -6,3 +6,5 @@ ProjectPath=Power Board\Power Board.PrjPcb
 ProjectPath=Board Connector Template\Board Connector Template.PrjPcb
 [Project3]
 ProjectPath=Low Distortion Oscillator\Low Distortion Oscillator.PrjPcb
+[Project4]
+ProjectPath=..\..\Library\ad-carrot-library\library\carrot_lib.LibPkg
