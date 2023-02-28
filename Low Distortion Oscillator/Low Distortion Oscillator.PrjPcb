@@ -57,7 +57,7 @@ DocumentUniqueId=FFDHEEUC
 
 [Document2]
 DocumentPath=Low Distortion Oscillator.Osc.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -108,7 +108,7 @@ DocumentUniqueId=QQSXYORM
 
 [Document5]
 DocumentPath=Low Distortion Oscillator.Amp.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=301
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -125,7 +125,7 @@ DocumentUniqueId=MNNQFTYU
 
 [Document6]
 DocumentPath=Low Distortion Oscillator.Amp2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=401
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=APLNGRUH
 
 [Document7]
 DocumentPath=Low Distortion Oscillator.Amp3.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=501
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
