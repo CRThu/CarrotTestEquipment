@@ -74,9 +74,9 @@ DocumentUniqueId=DNGHHNNW
 
 [Document3]
 DocumentPath=Low Distortion Oscillator.Con.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=101
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -160,11 +160,11 @@ DocumentUniqueId=OUNUBCYE
 [Document8]
 DocumentPath=Low Distortion Oscillator.DCDC.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=601
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -177,11 +177,11 @@ DocumentUniqueId=XGYGWWOQ
 [Document9]
 DocumentPath=Low Distortion Oscillator.LDO.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=701
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
